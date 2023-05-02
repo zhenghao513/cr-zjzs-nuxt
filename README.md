@@ -1,6 +1,17 @@
 # Nuxt - 浙江省成人高考报名
 
-查看 [Nuxt 3 文档](https://nuxt.com/docs/getting-started/introduction) 了解更多信息。
+## 亮点
+
+1. TypeScript - 代码完全使用 TypeScript 书写
+2. Nuxt 3 - 性能和 SEO 友好的全堆栈 Vue 应用程序
+3. Element Plus - 支持 Nuxt 3 的组件库
+5. Pinia - 类型安全、可扩展性以及模块化设计
+5. Fetch API - 基于 promise 的网络请求
+6. 响应式设计 - 适应不同屏幕宽度
+
+## 新功能
+
+- 根据 `教学点` 查询招生计划
 
 ## 安装
 
