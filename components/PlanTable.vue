@@ -7,7 +7,7 @@
     <template #empty>
       <el-empty
         :image-size="200"
-        :description="`在第 ${store.currentPage} 页中没有找到在${store.place}的教学点`"
+        :description="`在第 ${store.currentPage} 页中没有找到${store.place}的教学点`"
       />
     </template>
     <el-table-column type="expand">
