@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: 'Nuxt - 浙江省成人高考报名',
+      link: [{ rel: 'icon', href: '/favicon.ico' }],
     },
     baseURL: '/cr-zjzs-nuxt/',
   },
