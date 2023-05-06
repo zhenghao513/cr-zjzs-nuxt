@@ -9,9 +9,9 @@ export default defineNuxtConfig({
     },
     baseURL: '/cr-zjzs-nuxt/',
   },
-  nitro: {
-    prerender: {
-      routes: ['/', '/announce', '/article', '/policy', '/plan'],
-    },
-  },
+  // nitro: {
+  //   prerender: {
+  //     routes: ['/', '/announce', '/article', '/policy', '/plan'],
+  //   },
+  // },
 });
